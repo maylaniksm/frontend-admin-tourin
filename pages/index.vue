@@ -1,5 +1,6 @@
 <template>
-  <Tutorial/>
+  <!-- <Tutorial/> -->
+  <p>tour in</p>
 </template>
 
 <script>
